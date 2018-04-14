@@ -13,6 +13,6 @@ I've created an extensive set of [R tutorials](https://github.com/jgscott/learnR
 
 ## What should a write-up look like?
 
-I am often asked by students: what do you expect from a write-up of a data analysis that's been assigned in class?  [Here are some thoughts.](teaching/writeups/write_ups).  
+I am often asked by students: what do you expect from a write-up of a data analysis that's been assigned in class?  [Here are some thoughts.](writeups/write_ups).  
 
 
