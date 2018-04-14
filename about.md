@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/img/posts/jgscott201605.png" ALIGN="left" style="margin:10px 10px"/>
+<img src="{{ site.baseurl }}/assets/img/posts/jgscott201605.png" ALIGN="left" style="margin:10px 10px"/>
 
 Hi, I'm James Scott.  I am a statistician and data scientist at the University of Texas at Austin.  Here you can find information about [my research]({{ site.baseurl }}/research/), the [books and articles I've written]({{ site.baseurl }}/books/), and about [the classes I teach.]({{ site.baseurl }}/teaching/).  You can reach me by e-mail at james.scott@mccombs.utexas.edu.  
 
