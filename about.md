@@ -14,9 +14,7 @@ Here at UT I have a joint appointment in the [McCombs School of Business](https:
 
 I've recently finished writing a book, [_AIQ: How People and Machines are Smarter Together_](https://www.amazon.com/dp/1250182158?tag=macmillan-20) (jointly with my colleague Nick Polson).  _AIQ_ will be published by [St. Martin's Press](https://us.macmillan.com/smp/) in May 2018, and it answers lots of question people tend to have about artificial intelligence.  What is AI?  How does it work?  Where did it come from, and how is it changing the world?  For more information, see my [Books and Articles]({{ site.baseurl }}/books/) page.  
 
-In my academic research, I collaborate as a data scientist with scholars in a wide range of fields.  My recent collaborative projects have involved health care (especially maternal and child health), security, infectious disease, and neuroscience.  In the past I’ve also done work in linguistics, political science, finance, astronomy, and molecular biology. 
-
-I also research various topics in statistical theory and methods and theory, mainly in the area of Bayesian inference. 
+In my academic research, I collaborate as a data scientist with scholars in a wide range of fields.  My recent collaborative projects have involved health care (especially maternal and child health), security, infectious disease, and neuroscience.  In the past I’ve also done work in linguistics, political science, finance, astronomy, management, and molecular biology.   I also research various topics in statistical theory and methods, mainly in the area of Bayesian inference. See my [research page]({{ site.baseurl }}/research/).
 
 ### How to reach me
 
