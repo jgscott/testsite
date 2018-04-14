@@ -4,6 +4,8 @@ title: Software
 permalink: /software/
 ---
 
+[My GitHub page](https://github.com/jgscott) has the most up-to-date repository of software projects.  
+
 Below you'll find details on software packages that my students and I have built.
 
 [sdp](https://github.com/tansey/sdp): deep nonparametric estimation of discrete conditional distributions via smoothed dyadic partitioning.  In a nutshell, this is a superior alternative to the use of Gaussian mixture models as the final output layer of a deep neural network for the purpose of conditional density estimation.  By [Wesley Tansey](https://github.com/tansey).   
