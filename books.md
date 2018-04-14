@@ -8,8 +8,7 @@ permalink: /books/
 
 <img src="{{ site.baseurl }}/assets/img/posts/AIQ_cover_medium.png" ALIGN="right" style="margin:15px 25px"/>
 
-[_AIQ: How People and Machines Are Smarter Together_  
-](https://us.macmillan.com/books/9781250182159), by Nick Polson and James Scott   
+[_AIQ: How People and Machines Are Smarter Together_](https://us.macmillan.com/books/9781250182159), by Nick Polson and James Scott   
 St. Martin's Press (May 15, 2018)  
 [Amazon](https://www.amazon.com/dp/1250182158?tag=macmillan-20) - [Barnes and Noble](https://www.barnesandnoble.com/w/aiq-nick-polson/1126974730#/) - [IndieBound](https://www.indiebound.org/book/9781250182159)  - [Powell's](http://www.powells.com/book/aiq-how-people-machines-are-smarter-together-9781250182159)  
 
