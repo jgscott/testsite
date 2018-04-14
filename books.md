@@ -6,10 +6,10 @@ permalink: /books/
 
 # AIQ
 
-<img src="{{ site.baseurl }}/assets/img/posts/AIQ_cover_medium.png" ALIGN="left" style="margin:10px 15px"/>
+<img src="{{ site.baseurl }}/assets/img/posts/AIQ_cover_medium.png" ALIGN="right" style="margin:15px 25px"/>
 
 [_AIQ: How People and Machines Are Smarter Together_  
-](https://us.macmillan.com/books/9781250182159)    
+](https://us.macmillan.com/books/9781250182159)  
 Nick Polson and James Scott  
 St. Martin's Press (May 15, 2018)  
 [Amazon](https://www.amazon.com/dp/1250182158?tag=macmillan-20) - [Barnes and Noble](https://www.barnesandnoble.com/w/aiq-nick-polson/1126974730#/) - [IndieBound](https://www.indiebound.org/book/9781250182159)  - [Powell's](http://www.powells.com/book/aiq-how-people-machines-are-smarter-together-9781250182159)  
@@ -30,6 +30,7 @@ Steven D. Levitt, co-author of _Freakonomics_:
 
 Michael J. Casey, Author of _The Age of Cryptocurrency_ and _The Truth Machine_:  
 > “Nick Polson and James Scott take us under the hood of AI and data science, showing that behind most algorithms is the story of a person trying to solve a problem and make the world better. The result is an engaging, optimistic vision of an age in which computers have become a pervasive, influential presence in every aspect of life.”
+
 
 David Spiegelhalter, Professor of the Public Understanding of Risk at the University of Cambridge:  
 > At last, a book on the ideas behind AI and data science by people who really understand data. Cutting through the usual journalistic puff and myths, they clearly explain the underlying ideas behind the way that masses of data are being harnessed to build the algorithms that can carry out such extraordinary feats.  But they are also clear about the limitations and potential risks of these algorithms, and the need for society to scrutinise and even regulate their use.   A real page-turner, with fine stories and just enough detail: I learned a lot.
