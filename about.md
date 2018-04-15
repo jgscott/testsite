@@ -11,7 +11,7 @@ permalink: /about/
 
 I'm on the faculty of the University of Texas at Austin, where I have a joint appointment in the [McCombs School of Business](https://www.mccombs.utexas.edu/) and in the [Department of Statistics and Data Science](https://www.stat.utexas.edu/) in the College of Natural Sciences.  I also have a courtesy appointment in the Department of Computer Science.  My wife [Abigail Aiken](https://lbj.utexas.edu/directory/faculty/abigail-aiken) is also on the UT faculty, in the LBJ School of Public Affairs.  
 
-As a data scientist, I collaborate with scholars in a wide range of fields.  [My recent projects]({{ site.baseurl }}/research/) have involved health care (especially maternal and child health), security, infectious disease, and neuroscience.  In the past I’ve also done work in linguistics, political science, finance, astronomy, management, and molecular biology.   I also research various topics in statistical theory and methods, mainly in the area of Bayesian inference. 
+As a data scientist, I collaborate with scholars in a wide range of fields.  [My recent projects]({{ site.baseurl }}/research/) have been in health care, security, infectious disease, and neuroscience.  In the past I’ve also done work in linguistics, political science, finance, astronomy, management, and molecular biology.   I also research various topics in statistical theory and methods, mainly in the area of Bayesian inference. 
 
 I also [teach classes]({{ site.baseurl }}/teaching/) in statistical modeling, big data, and probability for several different groups of students at UT.  
 
